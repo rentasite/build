@@ -9,3 +9,4 @@ projects[pressflow][download][url] = "git://github.com/bigmack83/pressflow-6.git
 projects[rentasite][type] = "profile"
 projects[rentasite][download][type] = "git"
 projects[rentasite][download][url] = "git://github.com/rentasite/profile.git"
+projects[rentasite][download][branch] = "master"
