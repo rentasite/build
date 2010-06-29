@@ -5,7 +5,7 @@ core = 6.x
 ; Platform
 projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "git"
-projects[pressflow][download][url] = "git://github.com/bigmack83/pressflow-6.git"
+projects[pressflow][download][url] = "git://github.com/luckysmack/pressflow-6.git"
 projects[rentasite][type] = "profile"
 projects[rentasite][download][type] = "git"
 projects[rentasite][download][url] = "git://github.com/rentasite/profile.git"
