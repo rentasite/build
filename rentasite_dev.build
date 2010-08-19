@@ -5,7 +5,7 @@ core = 6.x
 ; Platform
 projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "get"
-projects[pressflow][download][url] = "http://launchpad.net/pressflow/6.x/6.17.85/+download/pressflow-6.17.85.tar.gz"
+projects[pressflow][download][url] = "http://launchpad.net/pressflow/6.x/6.19.92/+download/pressflow-6.19.92.tar.gz"
 projects[pressflow][patch][] = "http://drupal.org/files/issues/core-menu-inc-fix-undefined-index-in-_menu_translate.patch"
 projects[rentasite][type] = "profile"
 projects[rentasite][download][type] = "git"
